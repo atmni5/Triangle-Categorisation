@@ -1,0 +1,4 @@
+C:\Users\Windos\Documents\SharpDevelop Projects\Triangle Categorisation\Triangle Categorisation\bin\Release\Triangle Categorisation.exe.config
+C:\Users\Windos\Documents\SharpDevelop Projects\Triangle Categorisation\Triangle Categorisation\bin\Release\Triangle Categorisation.exe
+C:\Users\Windos\Documents\SharpDevelop Projects\Triangle Categorisation\Triangle Categorisation\obj\Release\Triangle Categorisation.csprojResolveAssemblyReference.cache
+C:\Users\Windos\Documents\SharpDevelop Projects\Triangle Categorisation\Triangle Categorisation\obj\Release\Triangle Categorisation.exe
